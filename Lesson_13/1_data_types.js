@@ -1,4 +1,5 @@
 //DATA TYPES IN JAVASCRIPT
+//https://github.com/dmproj/JavaScript-Full-Course-Youtube
 
 //weak, dynamic, coercion
 let x = 10; // number

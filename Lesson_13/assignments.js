@@ -1,4 +1,5 @@
 ///ASSIGNMENTS, LESSON 13, JAVASCRIPT
+//https://github.com/dmproj/JavaScript-Full-Course-Youtube
 
 // 1. Create a primitive variable of type string and assign it a value.
 const myString = "Hi!";

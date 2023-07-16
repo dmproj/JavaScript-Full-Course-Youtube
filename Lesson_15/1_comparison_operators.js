@@ -1,4 +1,5 @@
 //COMPARISON OPERATORS IN JAVASCRIPT
+//https://github.com/dmproj/JavaScript-Full-Course-Youtube
 
 const compare = 1 > 2
 console.log(compare)

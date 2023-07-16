@@ -1,4 +1,5 @@
 // JAVASCRIPT VARIABLES
+//https://github.com/dmproj/JavaScript-Full-Course-Youtube
 
 let age
 age = 26 // number

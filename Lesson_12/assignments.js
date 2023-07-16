@@ -1,4 +1,5 @@
 ///ASSIGNMENTS, LESSON 12, JAVASCRIPT
+//https://github.com/dmproj/JavaScript-Full-Course-Youtube
 
 // 1.
 // Declare a variable count and initialize it to 5. Use the increment operator to increase 

@@ -1,4 +1,5 @@
 // LESSON 7, ASSIGNMENTS
+//https://github.com/dmproj/JavaScript-Full-Course-Youtube
 
 // Variable and Value Assignments:
 

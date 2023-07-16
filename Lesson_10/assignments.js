@@ -1,4 +1,5 @@
 //LESSON 10, ASSIGNMENTS
+//https://github.com/dmproj/JavaScript-Full-Course-Youtube
 
 //1.
 //Create a JavaScript program that that contains user's first 

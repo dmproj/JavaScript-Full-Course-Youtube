@@ -1,4 +1,5 @@
 //ASSIGNMENTS CHAINING IN JAVASCRIPT
+//https://github.com/dmproj/JavaScript-Full-Course-Youtube
 
 let x = (y = z = 0)
 // let z = 0; equal to the above assignment

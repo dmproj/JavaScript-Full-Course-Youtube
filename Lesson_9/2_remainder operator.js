@@ -1,4 +1,5 @@
 // REMAINDER OPERATOR IN JAVASCRIPT
+//https://github.com/dmproj/JavaScript-Full-Course-Youtube
 
 console.log(10 % 3); // Output: 1
 console.log(15 % 6); // Output: 3
