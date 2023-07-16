@@ -11,6 +11,7 @@ console.log(b);
 
 //2.
 "use strict";
+//var b after declared is hoisted to this place
 b = 10;
 console.log(b);
 //will work since "b" is redeclared(hoisted) using var and assigned value of 10
