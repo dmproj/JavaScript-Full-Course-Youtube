@@ -51,11 +51,11 @@ xx(1,2)
 
 //6. Octals must be declared using "0o"
 "use strict";
-var c = 0123; 
-//var c = 0o123;
+// var c = 0123; // not allowed with use strict
+var c = 0o123;
 console.log(c)
 //7. The delete operator cannot be used to delete variables decalred with var, let, or const.
-delete c;
+//delete c; // not allowed with "use strict"
 
 //8. Some reserved words are not allowed with "use strict"
 "use strict"
