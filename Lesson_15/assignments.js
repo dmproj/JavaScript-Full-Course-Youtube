@@ -1,4 +1,5 @@
 ///ASSIGNMENTS, LESSON 15, JAVASCRIPT
+//https://github.com/dmproj/JavaScript-Full-Course-Youtube
 
 // 1. - Create a variable `strOne` and assign it the value of the string "one".
 //    - Compare `strOne` with the number `1` using the loose equality operator (`==`).
