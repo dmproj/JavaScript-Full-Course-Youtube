@@ -22,7 +22,7 @@ if (example) {
   console.log("displayed if true");
 }
 
-let lesson2 = 17;
+let lesson2 = 3;
 
 if (lesson2 == 17) {
   console.log("The current lesson is 17");
@@ -33,14 +33,16 @@ if (lesson2 == 17) {
 } /// continue with else if as much as required
 
 
-let lesson3 = 15;
+let lesson3 = 101;
 
-if (lesson3 == 15) {
+if (lesson3 == 17) {
   console.log("The current lesson is 17");
 } else if (lesson3 == 18) {
   console.log("it's the next lesson 18");
-} else console.log("no idea!");
-console.log(res);
+} else {console.log("no idea!")}
+
+
+if (true) console.log("no curslies!");
 
 let lesson4 = 15;
 
@@ -59,16 +61,24 @@ if (5 > 6) {
   console.log("true");
 } else console.log("the default block");
 
-if (1) {
-  console.log("1")
+function generateRandomNumber() {
+  var number = Math.floor(Math.random() * 3) + 1;
+  var numberString = number.toString();
+  return numberString;
 }
 
-if (2) {
-  console.log("2")
+let random_number = generateRandomNumber();
+
+if (random_number) {
+  console.log(random_number = generateRandomNumber())
 }
 
-if (3) {
-  console.log("3")
+if (random_number) {
+  console.log(random_number = generateRandomNumber())
+}
+
+if (random_number) {
+  console.log(random_number = generateRandomNumber())
 }
 
 if (false != 1) {
